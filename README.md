@@ -55,6 +55,6 @@ The storefront demonstrates MACH principles: **Microservices**, **API-first**, *
    - Add Contentful API keys or SAP CMS credentials
    - Sync content models and content types
 
-📄 License
+## 📄 License
 MIT License
    
