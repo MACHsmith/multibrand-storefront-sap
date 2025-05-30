@@ -42,16 +42,18 @@ The storefront demonstrates MACH principles: **Microservices**, **API-first**, *
    cd multibrand-storefront-sap
    
 2. **Install dependencies**
+   ```bash
    npm install
 
-3. **Run the frontend**
+4. **Run the frontend**
+   ```bash
    npm start
 
-4. **Connect to SAP Commerce backend**
+6. **Connect to SAP Commerce backend**
    - Configure API endpoints in environment.ts
    - Ensure CORS is enabled on the backend
      
-6. **CMS Integration**
+7. **CMS Integration**
    - Add Contentful API keys or SAP CMS credentials
    - Sync content models and content types
 
