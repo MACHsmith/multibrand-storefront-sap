@@ -55,12 +55,6 @@ The storefront demonstrates MACH principles: **Microservices**, **API-first**, *
    - Add Contentful API keys or SAP CMS credentials
    - Sync content models and content types
 
-🧠 MACH Concepts Demonstrated
-✅ Microservices: Modular backend services
-✅ API-first: All interactions via REST APIs
-✅ Cloud-native: Containerized deployment
-✅ Headless: Decoupled frontend and backend
-
 📄 License
 MIT License
    
